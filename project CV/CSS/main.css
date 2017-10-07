@@ -1,0 +1,75 @@
+body {
+	background-color: #483d8b;
+	font-family: Maiandra GD;
+	
+}
+.container-1{
+	background-color: #A9A9A9;
+	max-width:800px;
+	text-align:center;
+	margin: 0 auto 0 auto;
+	border: 2px solid white;
+	line-height:90%;
+}
+.my-countdown{
+	background:  #ffffff url(../scenti.gif) ;
+	max-width:800px;
+	text-align:center;
+	margin: 0 auto 0 auto;
+	border: 2px solid white;
+	line-height:90%;
+}
+footer {
+	text-align:center;
+}
+button {
+	background-color:red;
+	font-size:20px;
+	border-radius:8px;	
+	border-color: white;
+	border: 2px solid white;
+	
+}
+a {
+	text-decoration:none;
+	color:white;
+}
+h3{
+	letter-spacing:12px;
+}
+h2{
+	letter-spacing: 8px;
+} 
+#container .my-countdown .countdown-row{
+	display:block;
+	text-align:center;
+	margin-top:110px;
+}
+#container .my-countdown .countdown-section{
+	display:inline-block;
+	width:25%;
+	margin-top:100px;
+	
+}
+#container .my-countdown .countdown-amount{
+	display:block;
+	color: #263050;
+	font-size:5.6em;
+	line-height:100px;
+	
+}
+#container .my-countdown .countdown-period{
+	display:block;
+	color: #263050;
+	font-size:1.4em;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	
+}
+#container {
+	border-radius:8px;
+	border: 2px solid white;
+	width:800px;
+	margin: 0 auto 0 auto;
+}
+ 
